@@ -1,8 +1,8 @@
 True[X] TV Integrations
 ===========================
 
-## Android Integrations
+## Fire TV & Android TV Integrations
 
-Please refer to the [Android Getting Started][android] guide.
+Please refer to the [Fire TV Getting Started][firetv] guide.
 
-[android]: https://github.com/socialvibe/truex-mobile-integrations/wiki/Android-Getting-Started
+[firetv]: https://github.com/socialvibe/truex-tv-integrations/wiki/Fire-TV-Getting-Started
