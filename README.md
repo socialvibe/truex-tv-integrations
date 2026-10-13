@@ -1,8 +1,9 @@
-True[X] TV Integrations
+TrueX Ad Renderer - TV Integrations
 ===========================
 
-## Fire TV & Android TV Integrations
+# TrueX Android / Fire TV Integrations
 
-Please refer to the [Fire TV Getting Started][firetv] guide.
+Documentation has moved to the TrueX integration docs site:
 
-[firetv]: https://github.com/socialvibe/truex-androidtv-integrations/wiki/Getting-Started
+- [Android / FireTV](https://socialvibe.github.io/infillion-ads-integration-docs/platforms/android/)
+- [FireTV - Vega](https://socialvibe.github.io/infillion-ads-integration-docs/platforms/vega/)
