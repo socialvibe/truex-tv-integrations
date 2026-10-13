@@ -1,6 +1,3 @@
-TrueX Ad Renderer - TV Integrations
-===========================
-
 # TrueX Android / Fire TV Integrations
 
 Documentation has moved to the TrueX integration docs site:
